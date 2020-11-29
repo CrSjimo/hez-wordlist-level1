@@ -1,0 +1,25 @@
+{
+  "name": "hez-wordlist-level1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrSjimo/hez-wordlist-level1.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrSjimo/hez-wordlist-level1/issues"
+  },
+  "homepage": "https://github.com/CrSjimo/hez-wordlist-level1#readme",
+  "dependencies": {
+    "yaml": "^1.10.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.10"
+  }
+}
