@@ -1,0 +1,7 @@
+entry: velo
+defs:
+  hanji:
+    - 速度
+    - 快慢
+  translation: ""
+  part: n

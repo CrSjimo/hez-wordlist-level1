@@ -1,0 +1,8 @@
+entry: des
+defs:
+  - hanji: 水
+    translation: ""
+    part: n
+  - hanji: 十
+    translation: ""
+    part: num

@@ -1,0 +1,8 @@
+entry: bik
+defs:
+  - hanji: 的
+    translation: 省略非主语成分的定语从句连词
+    part: conj
+  - hanji: 的
+    translation: ...样的，令人...的
+    part: suf

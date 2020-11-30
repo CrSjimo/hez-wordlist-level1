@@ -1,0 +1,10 @@
+entry: jialin
+defs:
+  - hanji: 神
+    translation: ""
+    part: n
+  - hanji:
+      - 神
+      - 佳琳
+    translation: ""
+    part: proper-n

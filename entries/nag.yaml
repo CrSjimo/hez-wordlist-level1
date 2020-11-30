@@ -1,0 +1,7 @@
+entry: nag
+defs:
+  hanji: 那
+  translation: ""
+  part:
+    - det
+    - pron

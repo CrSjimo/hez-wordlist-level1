@@ -1,0 +1,5 @@
+entry: bin
+defs:
+  hanji: 二
+  translation: 二，两个
+  part: num

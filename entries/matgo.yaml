@@ -1,0 +1,8 @@
+entry: matgo
+defs:
+  hanji:
+    - 屋
+    - 室
+    - 房
+  translation: ""
+  part: n

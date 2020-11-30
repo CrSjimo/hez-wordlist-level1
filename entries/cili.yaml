@@ -1,0 +1,9 @@
+entry: cili
+defs:
+  hanji:
+    - 每
+    - 诸
+  translation: ""
+  part:
+    - det
+    - pron

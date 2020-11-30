@@ -1,0 +1,8 @@
+entry: myata
+defs:
+  hanji: 先
+  translation: ""
+  part:
+    - v
+    - n
+    - pre
